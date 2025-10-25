@@ -40,7 +40,7 @@ My enthusiasm for mobile application development extends beyond my work hours. I
 
 ## Why You Should Hire Me
 
-- **Proven Track Record:** With two years of experience, I've successfully navigated diverse projects, showcasing my adaptability and problem-solving skills.
+- **Proven Track Record:** With 4 years of experience, I've successfully navigated diverse projects, showcasing my adaptability and problem-solving skills.
 
 - **Academic Excellence:** My academic journey reflects my commitment to learning and excelling in computer science.
 
