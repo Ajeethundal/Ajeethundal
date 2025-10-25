@@ -6,7 +6,7 @@ React native developer
 
 Welcome to my GitHub profile! I'm a passionate mobile application developer with a strong background in computer science and a dedication to pushing the boundaries of technology. Here's a glimpse into my journey
 
-* 🌍  I'm based in Bikaner, Rajasthan
+* 🌍  I'm based in Mohali, Punjab
 * ✉️  You can contact me at [dev.ajeethundal00@gmail.com](mailto:dev.ajeethundal00@gmail.com)
 * 🚀  I'm currently working on [Iot application](http://medion.com)
 * 🧠  I'm learning Swift, Java, Kotlin
