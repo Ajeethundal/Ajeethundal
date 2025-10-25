@@ -28,15 +28,15 @@ Welcome to my GitHub profile! I'm a passionate mobile application developer with
 
 ## About Me
 
-I am a graduate with a Bachelor's in Computer Applications (BCA) where I achieved a commendable 75%. Currently, I am deepening my knowledge in the field by pursuing a Master's in Computer Science at Maharaja Ganga Singh University, currently in the 3rd semester.
+I hold a Bachelor’s degree in Computer Applications (BCA) with a commendable 75%. I further advanced my academic journey by completing my Master’s in Computer Science at Maharaja Ganga Singh University in 2024, graduating with a 7.4 CGPA.
 
 ## Current Job
 
-In my current role, I serve as a React Native Developer, contributing to various domains such as e-commerce, location tracking, and IoT. With two years of hands-on experience, I've honed my skills in crafting robust and user-friendly mobile applications.
+In my current role, I serve as a React Native Developer, contributing to diverse domains such as e-commerce, location tracking, IoT, live streaming, and healthcare. With over 4 years of hands-on experience, I’ve honed my expertise in building robust, scalable, and user-friendly mobile applications. I focus on delivering seamless cross-platform experiences, optimizing app performance, and integrating modern technologies to create impactful digital solutions.
 
 ## Passion for Mobile Application Development
 
-My enthusiasm for mobile application development extends beyond my work hours. I am driven by the belief that technology can be a force for positive change in people's lives. I constantly seek out innovative solutions and strive to create applications that make a lasting impact.
+My passion for mobile application development goes beyond professional boundaries. I am deeply motivated by the potential of technology to create meaningful and lasting impact in people’s lives. I continuously explore emerging trends, embrace innovation, and strive to develop high-quality applications that combine functionality, performance, and user-centric design.
 
 ## Why You Should Hire Me
 
